@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ton-utilisateur/indexof-downloader" target="_blank">
-    <img alt="IndexOf Downloader" src="https://img.shields.io/badge/IndexOf--Downloader-%F0%9F%93%82-blue?style=flat-square" />
+  <a href="https://github.com/Patricklalaina/index_file_extractor" target="_blank">
+    <img alt="IndexOf Downloader" src="https://img.shields.io/badge/index_file_extractor-%F0%9F%93%82-blue?style=flat-square" />
   </a>
 </p>
 
