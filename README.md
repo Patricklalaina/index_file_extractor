@@ -20,7 +20,7 @@ depuis des répertoires listés en mode **Index of/** sur des sites web.
 ### 1. Cloner le dépôt
 
 ``` bash
-https://github.com/Patricklalaina/index_file_extractor
+git clone https://github.com/Patricklalaina/index_file_extractor.git
 cd index_file_extractor
 ```
 
